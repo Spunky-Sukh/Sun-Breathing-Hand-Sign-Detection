@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import gitHub from "./icons/theGitHub.png"
+import gitHub from "./theGitHub.png"
 
 const Footer = () => {
   return (
