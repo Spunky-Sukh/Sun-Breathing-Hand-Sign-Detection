@@ -1,0 +1,46 @@
+.main-container {
+  display: flex;
+  /* align-items: center; */
+  justify-content: flex-start;
+  /* padding: 50px; */
+  height: 700px;
+  background-color: #1e1e1e;
+}
+
+.main-content {
+  width: 50%;
+}
+
+.main-title {
+  color: white;
+  font-size: 90px;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 1.2;
+  margin-top: 80px;
+}
+
+.main-title-intro {
+  display: block;
+  font-size: 100px; /* Increased font size */
+}
+
+.main-introduction {
+  color: white;
+  font-size: 30px;
+  margin-top: 40px;
+  line-height: 1.5;
+  max-width: 80%;
+  margin-left: 80px;
+  user-select: none;
+}
+
+.main-image {
+  width: 50%;
+}
+
+.logo-image {
+  width: 100%;
+  height: auto;
+  user-select: none;
+}
